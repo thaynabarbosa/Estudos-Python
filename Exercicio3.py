@@ -1,0 +1,5 @@
+nome = input("Informe o seu nome:")
+print("Seu nome é", nome)
+altura = float(input("Informe sua altura:"))
+print("Sua altura é", altura)
+print("Agradecemos a sua participação")
